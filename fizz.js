@@ -2,7 +2,7 @@
 // 98% of it. The trickiest part was figuring out how to move the bubbles with the movement of the mouse to cause a floating effect.
 // I had to use the vector functions from p5 library and also used the p5.js drawing example. Also, I changed my style/format of 
 // writing a class from foreverSquare. Not sure which one is good practice? But I'm going to stick
-// to this one. Click-&-Drag-for-Fizz
+// to this one. Click-&-Drag-for-Fizz.
 
 
 ////////////////////////////////////Variables/////////////////////////////////////////////
